@@ -8,7 +8,7 @@ Para poder acceder a esos valores utilizamos los indices
 
 peliculas = ['Batman', 'Spiderman', 'Ironman']
 
-cantantes = list(('Joaquin Sabina', 'Andres Suarez', 'Joan Manuel Serrat', 'Antonio Orozco'))
+cantantes = list(('Joaquin Sabina', 'Leiva', 'Andres Suarez', 'Joan Manuel Serrat', 'Antonio Orozco'))
 
 año = list(range(2010, 2021))
 
